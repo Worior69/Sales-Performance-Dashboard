@@ -58,7 +58,7 @@ The dashboard showcases trends, regional and customer segment performance, and t
 Screenshots of the Power BI dashboard:
 
 1. **Dashboard Overview**
-   ![Dashboard Overview](dashboard_screenshot.png)
+   ![Dashboard Overview](images/Dashboard_Overview.png)
 
 ---
 
